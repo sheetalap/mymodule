@@ -1,0 +1,5 @@
+name: mymodule
+description: To add new field in Site Information
+type: module
+core: 8.x
+

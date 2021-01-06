@@ -1,0 +1,7 @@
+#  To extend the system.site configuration
+system.site:
+  mapping:
+    #  Field name is 'siteapikey'
+    siteapikey:
+      type: label
+      label: 'Site API Key'
